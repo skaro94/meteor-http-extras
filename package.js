@@ -1,5 +1,5 @@
 Package.describe({
-  name: "aldeed:http",
+  name: "aldeed:http-fix",
   summary: "Improves the core HTTP package",
   version: "0.2.2",
   git: "https://github.com/aldeed/meteor-http-extras"
